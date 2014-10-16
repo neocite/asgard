@@ -20,7 +20,7 @@ import com.google.common.collect.ImmutableMap
 import com.google.common.collect.ImmutableSet
 import com.google.common.collect.Maps
 import org.codehaus.groovy.runtime.metaclass.MixinInstanceMetaProperty
-
+  
 /**
  * This is a tool for dealing with the outwardly visible state of objects (in terms of its bean properties).
  * Currently it can extract the state as a Map where the key is the property name as a String, and the value is the
